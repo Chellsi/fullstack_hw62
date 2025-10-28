@@ -216,7 +216,7 @@ src/
 
 #### `DELETE /articles/:articleId`
 - **Опис**: Видалити статтю за ID
-- **Middleware**: `logRequets`, `basicAuth`, `checkArticleAccess`, `checkResourceExists`
+- **Middleware**: `logRequests`, `basicAuth`, `checkArticleAccess`, `checkResourceExists`
 - **Параметри**: `articleId` - ID статті
 - **Відповідь**: `204 No Content`
 - **Помилки**: 
