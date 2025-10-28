@@ -26,6 +26,3 @@ coverage/
 
 # Ignore local production files
 *.local
-
-# End Generation Here
-```
